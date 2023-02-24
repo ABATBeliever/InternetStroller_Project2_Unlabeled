@@ -3,8 +3,8 @@
 <dd>主にHotSoupProcessor言語で、IEコンポーネントを使っています。</dd>
 <dd>他にも、.batなども用いていました</dd>
 <dd>このころも前半はただのスクリプトキディです。ご了承ください。</dd>
-# 最新版(InternetStroller Memoria)は
-# こちら:
+<dd>最新版(InternetStroller Memoria)は</dd>
+<dd>こちら:</dd>
 <dd>初期版(Rubbish Browser)は</dd>
 <dd>こちら:https://github.com/ABATbeliever/InternetStroller_Project1_Rubbish</dd>
 <dd>無印の後継版(IS for XP)は</dd>
@@ -14,8 +14,8 @@
 <dd>It uses IE components, mainly in the HotSoupProcessor language.</dd>
 <dd>Others used .bat, etc.</dd>
 <dd>The first half is still just a script kiddie at this time. Please understand.</dd>
-# The latest version (InternetStroller Memoria) is
-# here:
+<dd>The latest version (InternetStroller Memoria) is</dd>
+<dd>here:</dd>
 <dd>The early version (Rubbish Browser) is</dd>
 <dd>here:https://github.com/ABATbeliever/InternetStroller_Project1_Rubbish</dd>
 <dd>The successor version (IS for XP) is</dd>
